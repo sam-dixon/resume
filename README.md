@@ -24,7 +24,9 @@ University of California, Berkeley
 * Built a model web app for Advanced Laboratory classes at Berkeley: [https://github.com/sam-dixon/ucb-adv-lab](https://github.com/sam-dixon/ucb-adv-lab)
 
 **BA, Physics and Mathematics,** 2010 - 2014
+
 University of Chicago
+
 * GPA: 3.77
 * Honors thesis: *Dark Matter in CCDs*
 * Nathan Sugarman Award for Excellence in Undergraduate Research
